@@ -4,6 +4,8 @@ Predicting the **Remaining Useful Life (RUL)** of turbofan engines from multivar
 (NASA C-MAPSS, subset **FD001**: 100 train engines, 100 test engines, 1 operating condition, 1 fault mode),
 with an interactive **Streamlit dashboard** to explore the data and compare models.
 
+🚀 **Live demo:** https://cmapss-turbofan-rul-prediction.streamlit.app/
+
 ## Project structure
 
 ```
